@@ -1,0 +1,52 @@
+html{
+  background-color: rgba(90, 80, 80, 0.966);
+  font-family: cursive;
+ 
+}
+.info{
+  color:goldenrod;
+}
+.para{
+  color:rgb(238, 235, 231);
+  border-style: solid;
+  border-color: rgb(196, 15, 3);
+  border-width: .2em;
+  padding: 10px 50px 20px;
+  background-color: rgb(7, 1, 1);
+}
+.acco{
+  color:goldenrod;
+  background-color: rgb(7, 1, 1);
+}
+.uno{
+  color:rgb(238, 235, 231);
+  background-color: rgb(7, 1, 1);
+}
+.foot{
+  color:rgb(238, 235, 231);
+  background-color: rgb(7, 1, 1);
+}
+
+body{
+  border-style: solid;
+  border-color: rgb(196, 15, 3);
+  border-width: .5em;
+  padding: 10px 50px 20px;
+  
+}
+.para2{
+  color:rgb(238, 235, 231);
+  border-style: solid;
+  border-color: rgb(196, 15, 3);
+  border-width: .2em;
+  padding: 10px 50px 20px;
+  background-color: rgb(7, 1, 1);
+}
+img{
+  border-style: solid;
+  border-color: goldenrod;
+  border-width: .2em;
+}
+a{
+  color:blue;
+}
