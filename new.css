@@ -9,7 +9,7 @@ html{
 .para{
   color:rgb(238, 235, 231);
   border-style: solid;
-  border-color: rgb(196, 15, 3);
+  border-color: rgb(253, 252, 251);
   border-width: .2em;
   padding: 10px 50px 20px;
   background-color: rgb(7, 1, 1);
@@ -17,19 +17,28 @@ html{
 .acco{
   color:goldenrod;
   background-color: rgb(7, 1, 1);
+  border-style: solid;
+  border-color: rgb(253, 252, 251);
+  border-width: .2em;
 }
 .uno{
   color:rgb(238, 235, 231);
   background-color: rgb(7, 1, 1);
+  border-style: solid;
+  border-color: rgb(253, 252, 251);
+  border-width: .2em;
 }
 .foot{
   color:rgb(238, 235, 231);
   background-color: rgb(7, 1, 1);
+  border-style: solid;
+  border-color: rgb(253, 252, 251);
+  border-width: .2em;    
 }
 
 body{
   border-style: solid;
-  border-color: rgb(196, 15, 3);
+  border-color: rgb(253, 252, 251);
   border-width: .5em;
   padding: 10px 50px 20px;
   
@@ -37,7 +46,7 @@ body{
 .para2{
   color:rgb(238, 235, 231);
   border-style: solid;
-  border-color: rgb(196, 15, 3);
+  border-color: rgb(252, 249, 249);
   border-width: .2em;
   padding: 10px 50px 20px;
   background-color: rgb(7, 1, 1);
@@ -48,5 +57,9 @@ img{
   border-width: .2em;
 }
 a{
-  color:blue;
+  color:red;
+  border-style: solid;
+  border-color: rgb(253, 252, 251);
+  border-width: .2em;
+  background-color: rgb(7, 1, 1); 
 }
